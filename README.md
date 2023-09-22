@@ -6,9 +6,10 @@ https://www.1voucher.co.za/
 
 # Website Screenshot
 
-![Screenshot_34](https://github.com/stuartgregorysharpe/wooCommerce-1voucher.co.za/assets/137684294/271ee4c2-cf4f-472a-80c3-4093e67236eb)
-![Screenshot_35](https://github.com/stuartgregorysharpe/wooCommerce-1voucher.co.za/assets/137684294/257c392b-e8d0-42c2-bf12-3594d0321bbc)
-![Screenshot_36](https://github.com/stuartgregorysharpe/wooCommerce-1voucher.co.za/assets/137684294/eb027527-2a36-4153-8be6-fba8b162505e)
+![Screenshot_35](https://github.com/garrycolman/wooCommerce.1voucher.co.za/assets/135847597/82bbc3fd-e60c-448b-ada0-5c2125ab3c1c)
+![Screenshot_34](https://github.com/garrycolman/wooCommerce.1voucher.co.za/assets/135847597/a83ce277-0b77-4be0-bbf7-2023af3fc058)
+![Screenshot_36](https://github.com/garrycolman/wooCommerce.1voucher.co.za/assets/135847597/69744f72-c536-4e71-af75-7c544c1d3a53)
+
 
 
 User-Friendly Interface: Optimized for an excellent shopping experience.
