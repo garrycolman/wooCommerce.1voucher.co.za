@@ -1,4 +1,5 @@
-# 1voucher WooCommerce Store [Forked form my business bitbucket]
+# 1voucher WooCommerce Store 
+## [Forked from my business bitbucket]
 Welcome to the GitHub repository of 1voucher WooCommerce Store. This repository contains the source code and documentation of our online store, built on the WooCommerce platform.
 
 # 1Voucher web site URL
